@@ -72,3 +72,10 @@ python -m graphrag.query \
 "Who is Scrooge, and what are his main relationships?"
 ```
 
+### 相关截图
+![image](https://github.com/user-attachments/assets/e44d241c-af8b-4c64-b662-ee267175e4e8)
+
+![image](https://github.com/user-attachments/assets/21ec2c43-969b-490f-bc5e-8ebca320134f)
+
+
+
